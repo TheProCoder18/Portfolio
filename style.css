@@ -1,0 +1,26 @@
+body {
+   text-align: center;
+
+}
+
+h1{
+ color:blue;
+ font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+ font-size:50px;
+ font-weight: 300;
+}
+#app {
+    background-color: yellow;
+}
+#game {
+    background-color: green;
+}
+#chatbot {
+    background-color: red;
+}
+.line {
+    height:6px;
+    background-color: blue;
+    width:70px;
+    margin: 8px auto;
+}
